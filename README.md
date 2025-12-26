@@ -41,11 +41,11 @@ Cada ejercicio es un proyecto Maven independiente.
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-repo-oo2.git](https://github.com/tu-usuario/nombre-repo-oo2.git)
+    git clone [https://github.com/BrianBiscaro/orientacion-a-objetos-2.git](https://github.com/BrianBiscaro/orientacion-a-objetos-2.git)
     ```
 2.  Navegar a la carpeta del ejercicio deseado:
     ```bash
-    cd 02-patrones/ejercicio-01-friday-the-13th
+    cd 02-patrones/ejercicio-03-media-player
     ```
 3.  Ejecutar los tests (para verificar la solución):
     ```bash
